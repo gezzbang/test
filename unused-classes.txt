@@ -50,6 +50,10 @@ p0
 p5
 highlight
 border3
+
+
+
+
 rt
 wc-setparan
 mh
